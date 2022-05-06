@@ -92,6 +92,7 @@ a i {
 
 
 .conteiner2 h1 {
+    text-transform: uppercase;
     padding-bottom: 30px;
     color: black;
 }
@@ -128,6 +129,7 @@ p {
 
 
 .wedo h1 {
+    text-transform: uppercase;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -258,7 +260,7 @@ ul {
     justify-content: space-between;
     align-items: center;
     /* border: 1px solid red; */
-    width: 1.5%;
+    width: 2.5%;
     margin: 30px auto;
 }
 
@@ -276,4 +278,8 @@ ul li:nth-child(1) {
 ul li:nth-child(2) {
     width: 7px;
     height: 7px;
+}
+
+.user {
+    background-image: url();
 }
